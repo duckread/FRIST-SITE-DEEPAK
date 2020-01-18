@@ -1,0 +1,150 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-family: "Merriweather", serif;
+}
+
+.top {
+  background-color: #EAF6F6;
+  height: 800px;
+  position: relative;
+  padding-top: 130px;
+}
+
+.two {
+  font-size: 2.5rem;
+  margin-top: 20px;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+.one {
+  margin-bottom: 10px;
+  color: #66BFBF;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 80px;
+}
+
+.profil {
+  width: 200px;
+  height: 200px;
+}
+
+.skill {
+  border-radius: 100%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+h1 {
+  font-family: "Sacramento", sans-serif;
+  font-size: 5.625rem;
+  margin: 50px auto auto;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  color: #66BFBF;
+}
+
+h3 {
+  color: #11999E;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+span {
+  text-decoration: underline;
+}
+
+.Teacher {
+  float: right;
+  margin-left: 30px;
+}
+
+.middle-container {
+  margin-top: 80px;
+}
+
+.profil {
+  border-radius: 100%;
+}
+
+.hello-description {
+  color: #40514E;
+  margin: auto auto 80px auto;
+}
+
+.hello {
+  margin: 50px auto 50px auto;
+}
+
+hr {
+  width: 3%;
+  border: dotted 3px #EAF6F6;
+  border-width: 7px 0 0 0;
+}
+
+.my-skill {
+  margin: 80px auto 80px auto;
+  color: #66BFBF;
+}
+
+.get-in-touch {
+  margin: 80px auto 45px auto;
+}
+
+.love-to-have {
+  margin: auto auto 45px auto;
+}
+
+.we-can-code {
+  margin: auto auto 50px auto;
+}
+
+.bottom-container {
+  background-color: #11999E;
+  margin: 60px auto 30px auto;
+}
+
+.footer-link {
+  display: inline-block;
+  margin: 60px 30px 50px auto;
+  color: #66BFBF;
+}
+
+.deepak {
+  margin: 50px auto 50px auto;
+  color: #EAF6F6;
+}
+.botton{
+
+}
+.botton-div{
+width: 200px;
+padding:20px 20px;
+  margin:auto;
+  background-color: #192965;
+  border-radius: 100px;
+  color: white;
+
+}
